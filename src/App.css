@@ -1,0 +1,28 @@
+
+*{
+  box-sizing: border-box;
+}
+.navbar{
+  float: left;
+  background: #d4d1cb;
+  height: 100vh;
+  width: 15%;
+  text-align: center;
+}
+.navbar ul{
+  padding: 0;
+}
+.navbar li{
+  list-style-type: none;
+}
+.navbar a{
+  color: black;
+}
+
+.main{
+  float: left;  
+  padding: 20px;
+  width: 85%;
+  height: 100vh;
+  background: #edece8;
+}
